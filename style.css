@@ -1,0 +1,34 @@
+body{
+    font-family: 'Gideon Roman', cursive;
+    background-color: yellowgreen;
+}
+.heading{
+    background-color: deepskyblue;
+    color: purple;
+}
+.heading p{
+    font-family:'Syne Tactile', cursive ;
+    color: gray;
+    font-weight: bold;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+.aliens button{
+    font-family: 'Redressed', cursive;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    width: 130px;
+    margin-top: 30px;
+
+}
+.copyright{
+    bottom: 0;
+    position:fixed;
+    width: 100%;
+    color: grey;
+    background-color: yellow;
+    line-height: 3px;
+    font-size: 18px;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
